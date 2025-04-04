@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/your-username/MySQL-for-Data-Analyst/blob/main/MySQL.png" width="800"/>
+  <img src="https://github.com/mahamud-13756/MySQL/blob/main/MySQL.png" width="800"/>
 </p>
 
 ### 🔗 **MySQL for Data Science Full Playlist**
