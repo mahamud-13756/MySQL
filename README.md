@@ -1,4 +1,4 @@
-# MySQL for Data Analyst 
+# MySQL for Data Science 
 
 ### All Contents of MySQL for Data Science Playlist
 
